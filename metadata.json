@@ -1,0 +1,6 @@
+{
+  "name": "Khám Phá Hệ Sinh Thái Rừng - Ao",
+  "description": "Minh họa phẳng giáo dục trực quan và hoạt động khám phá sinh vật hệ sinh thái rừng - ao dành cho học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
